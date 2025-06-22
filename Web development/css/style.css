@@ -1,0 +1,26 @@
+*{
+    font-family: emoji;
+}
+
+h1{
+    color: #1b74e4;
+}
+p{
+    color: rgb(140, 29, 29);
+}
+#searchbutton{
+    background-color: #e41b32;
+    color: white;
+}
+.userbutton{   
+    background-color: aqua;
+}
+ /* #login, #register{
+    background-color: aqua;
+ } */
+  button:hover{
+    background-color: red;
+  }
+  #searchbutton:hover{
+    background-color: aqua;
+  }

@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/mdarifkarim/Desktop/Development/C and C++/output/add'
+relocations:     []
+...
