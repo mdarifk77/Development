@@ -3,7 +3,7 @@ using namespace std;
 
 int main(){
     for(int i=3; i>2; i++){
-        cout<<"ARIF  GANDU ";
+        cout<<"MD ARIF KARIM";
     }
 
 return 0;
